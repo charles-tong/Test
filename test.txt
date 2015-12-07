@@ -1,1 +1,11 @@
 https://github.com/charles-tong/Test.git
+
+springMVC: http://elf8848.iteye.com/blog/875830, http://www.importnew.com/15141.html
+
+jira: https://jira.coresolutions.com/issues
+
+CBX(44): http://192.168.2.44:8080/main/login.jsp
+
+ZK(api): http://www.zkoss.org/javadoc/6.5.7/zk/
+
+tool: http://www.boyunjian.com/
